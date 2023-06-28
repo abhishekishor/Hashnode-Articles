@@ -5,7 +5,7 @@ seoDescription: "Get a comprehensive guide to Terraform with our introduction ar
 datePublished: Wed Jun 28 2023 07:49:05 GMT+0000 (Coordinated Universal Time)
 cuid: cljff11i8000709ic0f2c8uhc
 slug: terraform-introduction
-cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1687938385440/4a034fac-7b7b-42dd-94eb-9a110bf92407.gif
+cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1687938835827/2ef6866e-1a5b-4a2c-93a3-218253e43dda.jpeg
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1687938501679/b9bac909-9fc2-4652-ae3e-315242b2fe4a.jpeg
 tags: devops, terraform, infrastructure-as-code, devops-articles
 
