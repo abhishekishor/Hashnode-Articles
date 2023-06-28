@@ -6,7 +6,7 @@ datePublished: Wed Jun 28 2023 07:12:01 GMT+0000 (Coordinated Universal Time)
 cuid: cljfdpdir000309mm3ets71bp
 slug: terraform-introduction
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1687857547494/77143b5e-6800-4c3c-a7f3-7a9363f13eb7.gif
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1687936270298/f43feea3-6225-4eac-8d7d-f6678a6da386.gif
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1687937430777/d4b33e8f-dc0a-4682-b411-c3b5fb86eccd.jpeg
 tags: devops, terraform, infrastructure-as-code, devops-articles
 
 ---
