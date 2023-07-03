@@ -1,10 +1,10 @@
 ---
-title: "Terraform Introduction: Workflow"
+title: "Terraform Workflow"
 seoTitle: "Mastering Terraform: Streamlined Workflow"
 seoDescription: "Discover the best practices and step-by-step guide to optimize your Terraform workflow. Streamline infrastructure provisioning and management effortlessly."
 datePublished: Mon Jul 03 2023 06:36:11 GMT+0000 (Coordinated Universal Time)
 cuid: cljmhmj7t001009jydtp097az
-slug: terraform-introduction-workflow
+slug: terraform-workflow
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1688365926973/0cf7210a-c663-490f-937f-4ffd7cecc387.jpeg
 ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1688365977752/5e2bc0eb-b626-498a-a7fd-69906c0adafb.jpeg
 tags: devops, infrastructure, terraform, infrastructure-as-code, devops-articles
