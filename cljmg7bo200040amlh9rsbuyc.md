@@ -6,7 +6,7 @@ datePublished: Mon Jul 03 2023 05:56:21 GMT+0000 (Coordinated Universal Time)
 cuid: cljmg7bo200040amlh9rsbuyc
 slug: terraform-workflow
 cover: https://cdn.hashnode.com/res/hashnode/image/upload/v1688321777517/27830b84-db90-4eea-bfef-409383873478.jpeg
-ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1688363691139/81dbed72-57b8-4f48-956f-31f17fdd5fe2.jpeg
+ogImage: https://cdn.hashnode.com/res/hashnode/image/upload/v1688365115786/d76ec147-8bbb-4c0e-84e3-811176867a37.jpeg
 tags: devops, terraform, infrastructure-as-code, devops-articles
 
 ---
